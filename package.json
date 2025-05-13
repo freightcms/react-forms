@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "description": "Project for building dynamic forms using React",
   "name": "@freightcms/react-forms",
- "repository": {
+  "repository": {
 	"type": "git",
 	"url": "git+https://github.com/freightcms/react-forms.git"
   },
