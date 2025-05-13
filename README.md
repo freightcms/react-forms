@@ -1,11 +1,15 @@
-# @freightcms/react-forms
+# 🚀 Welcome to your new awesome project!
 
-## Summary
+This project has been created using **create-webpack-app**, you can now run
 
-Another Form Builder using React Tools specific for FreightCMS Web Project.
+```bash
+npm run build
+```
 
-## Dependencies
+or
 
-- React
-- ReactDOM
+```bash
+yarn build
+```
 
+to bundle your application
