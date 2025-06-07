@@ -1,1 +1,1 @@
-console.log("Hello This is a Typescript project.");
+export { default as Form } from "./forms.component";
